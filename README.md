@@ -1,5 +1,5 @@
 # ProtoNorm
-Heterogeneous Federated Learning with Prototype Alignment and Upscaling
+Heterogeneous Federated Learning with Prototype Alignment and Upscaling([arXiv](https://www.arxiv.org/abs/2507.04310))
 
 
 ### Environment setting
